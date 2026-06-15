@@ -1,0 +1,24 @@
+{
+  "delta_rcfs": {
+    "basis_obstruction": 0,
+    "iota_halt": false,
+    "iota_steps": 11,
+    "operational_obstructions": [],
+    "ski_halt": false,
+    "ski_steps": 12,
+    "symbolic_atoms_remaining": []
+  },
+  "depth": 7,
+  "iota_steps": 11,
+  "iota_symbols": 11,
+  "node_count": 21,
+  "normal_form_hash": "15fa8c7739885a5c",
+  "normal_form_preview": "((S K) ((S K) (K K)))",
+  "normalized": true,
+  "pure_iota": true,
+  "residue": "closed",
+  "ski_redexes_before": 0,
+  "ski_steps": 12,
+  "source": "RCFS_FAS_kernel",
+  "term_hash": "7974309cd25b8fea"
+}

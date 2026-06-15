@@ -1,0 +1,24 @@
+{
+  "delta_rcfs": {
+    "basis_obstruction": 0,
+    "iota_halt": false,
+    "iota_steps": 108,
+    "operational_obstructions": [],
+    "ski_halt": false,
+    "ski_steps": 126,
+    "symbolic_atoms_remaining": []
+  },
+  "depth": 12,
+  "iota_steps": 108,
+  "iota_symbols": 108,
+  "node_count": 215,
+  "normal_form_hash": "f8321d65308e01aa",
+  "normal_form_preview": "((S ((S (K S)) ((S (K K)) ((S K) (K K))))) ((S ((S (K S)) ((S (K K)) ((S K) (K K))))) ((S ((S (K S)) ((S (K K)) ((S K) (K K))))) (K ((S K) (K K))))))",
+  "normalized": true,
+  "pure_iota": true,
+  "residue": "closed",
+  "ski_redexes_before": 0,
+  "ski_steps": 126,
+  "source": "Church_3",
+  "term_hash": "040086e98beba1f0"
+}

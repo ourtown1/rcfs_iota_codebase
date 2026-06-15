@@ -1,0 +1,15 @@
+{
+  "manifest": "RCFS_implemented_as_MicroHs_IotaTrees_Barker_SKI",
+  "version": "0.1.0",
+  "kernel": "(FAS) -> SKI -> iota(Barker) -> PHYS-mandala -> DeltaRCFS -> Omega",
+  "implemented_layers": [
+    "MicroHs-style lambda bracket abstraction",
+    "SKI reduction",
+    "Barker iota expansion",
+    "Church numeral generation",
+    "RCFS F/A/S role mapping",
+    "PHYS SVG mandala rendering",
+    "DeltaRCFS audit certificates"
+  ],
+  "precision_guard": "formal combinatory closure only; biological/material closure requires substrate tests"
+}

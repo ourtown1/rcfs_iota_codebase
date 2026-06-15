@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rcfs-iota"
+version = "0.1.0"
+description = "RCFS implemented as MicroHs-style lambda-to-SKI transport, Barker iota trees, PHYS mandala certificates, and ΔRCFS audits."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "ORSIΩ generated scaffold"}]
+keywords = ["SKI", "iota", "Barker", "lambda-calculus", "Rosen", "RCFS", "MicroHs", "combinatory-logic"]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+rcfs-iota = "rcfs_iota.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["rcfs_iota*"]
